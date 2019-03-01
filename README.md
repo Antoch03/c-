@@ -1,2 +1,2 @@
-# c-
+# cplusplus
 C++ tutorials, projects, etc. 
